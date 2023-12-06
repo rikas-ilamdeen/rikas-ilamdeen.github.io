@@ -100,4 +100,9 @@
   .text-container {
     text-align: justify;
   }
+  .nav-links1 {
+    flex-direction: column;
+    gap: 0.2rem;
+    text-align: center;
+  }
 }
