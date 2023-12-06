@@ -97,10 +97,15 @@
   .title {
     font-size: 2rem;
   }
-  .details-container p1,
-  .details-container p2 {
-    font-size: 11px;
-  } 
+  .details-container {
+    text-align: left;
+  }
+  .details-container p1{
+    color:black;
+  }
+  .details-container p2{
+    color:rgb(53, 53, 53);
+  }
   .text-container {
     text-align: left;
   }
