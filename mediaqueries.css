@@ -97,9 +97,10 @@
   .title {
     font-size: 2rem;
   }
-  .details-container p {
-      font-size: 0.1rem;
-  }  
+  .details-container p1,
+  .details-container p2 {
+    font-size: 11px;
+  } 
   .text-container {
     text-align: left;
   }
