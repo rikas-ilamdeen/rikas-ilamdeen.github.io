@@ -97,8 +97,7 @@
   .title {
     font-size: 2rem;
   }
-  .details-container p1,
-  .details-container p2 {
+  .details-container p {
       font-size: 0.1rem;
   }  
   .text-container {
