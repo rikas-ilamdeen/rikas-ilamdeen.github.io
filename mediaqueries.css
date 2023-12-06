@@ -97,14 +97,13 @@
   .title {
     font-size: 2rem;
   }
-  .details-container {
-    text-align: left;
-  }
   .details-container p1{
     color:black;
+    font-size: small;
   }
   .details-container p2{
     color:rgb(53, 53, 53);
+    font-size: 11px;
   }
   .text-container {
     text-align: left;
